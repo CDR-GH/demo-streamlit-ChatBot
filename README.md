@@ -1,2 +1,2 @@
 # demo-streamlit-ChatBot
-Chabot with python and GooleGemini API
+Chabot with Python and Goole Gemini API
